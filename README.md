@@ -30,8 +30,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" width="100px;" alt="Foto do Rodolfo Mori"/><br>
+      <a href="https://github.com/rodolfomori">
+        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" width="100px;" alt="Foto do Rodolfo Mori"/><br>
         <sub>
           <b>Rodolfo Mori</b>
         </sub>

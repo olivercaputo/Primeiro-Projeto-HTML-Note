@@ -30,15 +30,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/rodolfomori">
-        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" target= "_blank" width="100px;" width="100px;" alt="Foto do Rodolfo Mori no GitHub"/><br>
+      <a href="https://github.com/rodolfomori" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" width="100px;" alt="Foto do Rodolfo Mori no GitHub"/><br>
         <sub>
           <b>Rodolfo Mori</b>
         </sub>
       </a>
     </td>
         <td align="center">
-      <a href="#">
+      <a href="https://github.com/iuricode" target="blank">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
